@@ -13,6 +13,6 @@
   },
   "homepage": "https://wallpul.se",
   "dependencies": {
-    "hapi": "^15.2.0"
+    "hapi": "^17.2.0"
   }
 }
